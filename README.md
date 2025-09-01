@@ -12,11 +12,13 @@ The analysis is supported with SQL queries and dashboards built in Cognos, featu
 - Derive investment insights from long-term trends.
 ## 📷 Dashboard
 ![Dahboard](https://github.com/Shubhangi04673/Gold-Rate-Analysis/blob/main/Gold%20Dashboard%201.png)
-## SQL Queries used in Analysis
+
+![Dahboard](https://github.com/Shubhangi04673/Gold-Rate-Analysis/blob/main/Gold%20Dashboard%202.png)
+## ⚙️ SQL Queries used in Analysis
 
 ## 📁 Dataset
 
-## ⚙️ Tools & Technologies  
+## 🔧 Tools & Technologies  
 - Excel → Data cleaning     
 - SQL → Querying trends and KPIs
 - IBM Cognos → Dashboarding 
