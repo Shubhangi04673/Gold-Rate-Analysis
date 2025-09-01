@@ -11,7 +11,7 @@ The analysis is supported with SQL queries and dashboards built in Cognos, featu
 - Analyze monthly patterns in gold prices.
 - Derive investment insights from long-term trends.
 ## 📷 Dashboard
-
+![Dahboard](https://github.com/Shubhangi04673/Gold-Rate-Analysis/blob/main/Gold%20Dashboard%201.png)
 ## SQL Queries used in Analysis
 
 ## 📁 Dataset
