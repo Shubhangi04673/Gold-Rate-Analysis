@@ -14,8 +14,9 @@ The analysis is supported with SQL queries and dashboards built in Cognos, featu
 ![Dahboard](https://github.com/Shubhangi04673/Gold-Rate-Analysis/blob/main/Gold%20Dashboard%201.png)
 
 ![Dahboard](https://github.com/Shubhangi04673/Gold-Rate-Analysis/blob/main/Gold%20Dashboard%202.png)
-## ⚙️ SQL Queries used in Analysis
-
+## ⚙️ SQL Queries
+All queries used in this project are available here : 
+[View SQL Queries](https://github.com/Shubhangi04673/Gold-Rate-Analysis/blob/main/sql_queries.md)
 ## 📁 Dataset
 
 ## 🔧 Tools & Technologies  
